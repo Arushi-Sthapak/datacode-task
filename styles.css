@@ -1,0 +1,262 @@
+.container {
+    width: 1440px;
+    height: 1024px;
+    padding-top: 69px;
+    padding-bottom: 272px;
+    padding-left: 38px;
+    padding-right: 32px;
+    background: white;
+    justify-content: flex-end;
+    align-items: flex-start;
+    gap: 30px;
+    display: inline-flex;
+  }
+  
+  .box {
+    width: 670px;
+    height: 683px;
+    position: relative;
+  }
+  
+  .overlay {
+    width: 670px;
+    height: 683px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    background: white;
+    box-shadow: 5px 5px 5px;
+    border: 1px black solid;
+    filter: blur(5px);
+  }
+  
+  .image {
+    width: 670px;
+    height: 328.49px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+  }
+  
+  .title {
+    width: 490.07px;
+    height: 86.95px;
+    left: 20.88px;
+    top: 345.59px;
+    position: absolute;
+    color: black;
+    font-size: 36px;
+    font-family: roboto;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .button {
+    width: 148.12px;
+    height: 32.70px;
+    position: absolute;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    font-family: roboto;
+    word-wrap: break-word;
+  }
+  
+  .design {
+    left: 510.95px;
+    top: 345.59px;
+    background: #FF88F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+  .learn-more {
+    left: 457.27px;
+    top: 608.68px;
+    background: #7F30E2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    color: #FFFEFE;
+  }
+  
+  .time {
+    width: 141.16px;
+    height: 28.24px;
+    left: 309.15px;
+    top: 1.49px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .date {
+    width: 141.16px;
+    height: 28.24px;
+    left: 44.73px;
+    top: 1.49px;
+    position: absolute;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    font-family: roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .role {
+    width: 182.91px;
+    height: 17.09px;
+    left: 111.34px;
+    top: 35.64px;
+    position: absolute;
+    color: black;
+    font-size: 20px;
+    font-family: roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .students {
+    width: 182.91px;
+    height: 14.86px;
+    left: 431.42px;
+    top: 29.69px;
+    position: absolute;
+    color: black;
+    font-size: 16px;
+    font-family: roboto;
+    font-weight: 400;
+    word-wrap: break-word;
+  }
+  
+  .presenter {
+    width: 189.87px;
+    height: 20.07px;
+    left: 108.35px;
+    top: 12.60px;
+    position: absolute;
+    color: black;
+    font-size: 24px;
+    font-family: roboto;
+    font-weight: 700;
+    word-wrap: break-word;
+  }
+  
+  .separator {
+    width: 50.58px;
+    height: 0px;
+    left: 393.65px;
+    top: 12.60px;
+    position: absolute;
+    transform: rotate(87.75deg);
+    transform-origin: 0 0;
+    border: 1px black solid;
+  }
+
+  .line1 {
+    width: 596.44px; 
+    height: 0px; 
+    left: 0px; 
+    top: 73.59px; 
+    position: absolute; 
+    border: 1px black solid
+  }
+
+  .line2 {
+    width: 598.43px; height: 0px; left: 0px; top: 1.54px; position: absolute; border: 1px black solid
+  }
+
+  .dev1{
+    width: 182.91px; height: 17.09px; left: 80px; top: 35.69px; position: absolute; color: black; font-size: 20px; font-family: roboto; font-weight: 400; word-wrap: break-word
+  }
+
+  .students1{
+    width: 182.91px; height: 14.86px; left: 431.42px; top: 29.75px; position: absolute; color: black; font-size: 16px; font-family: roboto; font-weight: 400; word-wrap: break-word
+  }
+
+  .tutor-name1{
+    width: 189.87px; height: 20.07px; left: 80px; top: 12.65px; position: absolute; color: black; font-size: 24px; font-family: roboto; font-weight: 700; word-wrap: break-word
+  }
+
+  .tutor-profile1{
+    width: 60.64px; height: 46.08px; left: 24.85px; top: 12.65px; position: absolute
+  }
+
+  .line3{
+    width: 50.58px; height: 0px; left: 393.65px; top: 12.65px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px black solid
+  }
+
+  .calendar-icon{
+    top: 10px; position:absolute;
+  }
+
+  .time-icon{
+    width: 44.73px; height: 29.73px; left: 287.28px; top: 10px; position: absolute;
+  }
+
+  .time{
+    width: 141.16px; height: 28.24px; left: 290px; top: 15px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: roboto; font-weight: 400; word-wrap: break-word
+  }
+
+  .date{
+    width: 141.16px; height: 28.24px; left: 20px; top: 15px; position: absolute; text-align: center; color: black; font-size: 20px; font-family: roboto; font-weight: 400; word-wrap: break-word
+  }
+
+  .line4{
+    width: 596.44px; height: 0px; left: 0px; top: 73.59px; position: absolute; border: 1px black solid
+  }
+
+  .line5{
+    width: 598.43px; height: 0px; left: 0px; top: 1.54px; position: absolute; border: 1px black solid
+  }
+
+  .dev2{
+    width: 182.91px; height: 17.09px; left: 80px; top: 35.69px; position: absolute; color: black; font-size: 20px; font-family: roboto; font-weight: 400; word-wrap: break-word
+  }
+
+  .students2{
+    width: 182.91px; height: 14.86px; left: 431.42px; top: 29.75px; position: absolute; color: black; font-size: 16px; font-family: roboto; font-weight: 400; word-wrap: break-word
+  }
+
+  .tutor-name2{
+    width: 189.87px; height: 20.07px; left: 80px; top: 12.65px; position: absolute; color: black; font-size: 24px; font-family: roboto; font-weight: 700; word-wrap: break-word
+  }
+
+  .tutor-profile2{
+    width: 60.64px; height: 46.08px; left: 24.85px; top: 12.65px; position: absolute
+  }
+
+  .line6{
+    width: 50.58px; height: 0px; left: 393.65px; top: 12.65px; position: absolute; transform: rotate(90deg); transform-origin: 0 0; border: 1px black solid
+  }
+
+  .stars1{
+    width: 189.87px; height: 20.07px; left: 80px; top: 608.68px; position: absolute; color: black; font-size: 24px; font-family: roboto; font-weight: 700; word-wrap: break-word
+  }
+
+  .stars2{
+    width: 189.87px; height: 20.07px; left: 80px; top: 608.68px; position: absolute; color: black; font-size: 24px; font-family: roboto; font-weight: 700; word-wrap: break-word
+  }
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
